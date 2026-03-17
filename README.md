@@ -1,11 +1,13 @@
+<img width="741" height="861" alt="Architectural drawing" src="https://github.com/user-attachments/assets/4543141a-b93b-4ce2-8274-7c5f2a2687d6" />
+
 # 🚀 CloudPulse: Advanced Infrastructure Observability Platform
 
 CloudPulse is a real-world cloud monitoring system that collects server metrics, detects anomalies, and sends real-time alerts using AWS services.
 
+
 ---
 
 ## 📌 Project Overview
-
 This project simulates a **production-grade observability pipeline**:
 
 * Collect system metrics (CPU, memory, disk, network)
@@ -154,6 +156,8 @@ If thresholds are exceeded:
 * Disk > 90%
 
 📩 You will receive an email alert via SNS.
+![AlertMessage](https://github.com/user-attachments/assets/3dba1c72-82bd-4f52-91a8-90bcc1c63cff)
+
 
 ---
 
