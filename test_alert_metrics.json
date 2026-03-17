@@ -1,0 +1,9 @@
+{
+  "timestamp": "2026-03-16T10:30:00Z",
+  "server_name": "web-server-test",
+  "cpu_usage_percent": 92,
+  "memory_usage_percent": 88,
+  "disk_usage_percent": 45,
+  "network_latency_ms": 15,
+  "application_errors": 0
+}
